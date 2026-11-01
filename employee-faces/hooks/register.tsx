@@ -15,7 +15,7 @@ const TEAM: Record<Who, Persona> = {
   },
   Wonka: {
     name: 'Wonka',
-    color: '#D9A93A',
+    color: '#A8325E',
     png: WONKA_PNG,
     emoji: '🎩',
     words: ['Stirring the chocolate river', 'Inventing', 'Polishing the golden ticket', 'Running the factory'],
