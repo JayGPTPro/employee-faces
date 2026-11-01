@@ -1,0 +1,11 @@
+{
+  "name": "employee-faces",
+  "owner": { "name": "Jay GPT Pro" },
+  "plugins": [
+    {
+      "name": "employee-faces",
+      "source": "./employee-faces",
+      "description": "Donna's and Wonka's face and name above every reply in their folders"
+    }
+  ]
+}

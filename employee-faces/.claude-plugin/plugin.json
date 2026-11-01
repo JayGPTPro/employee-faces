@@ -1,0 +1,7 @@
+{
+  "name": "employee-faces",
+  "version": "1.0.0",
+  "description": "Shows Donna's or Wonka's face and name above every reply when Claude Code works in their folder",
+  "author": { "name": "Jay GPT Pro" },
+  "license": "MIT"
+}
