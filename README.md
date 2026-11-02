@@ -6,13 +6,20 @@ Your AI employees, with their faces on. When Claude Code works in your Donna fol
 
 ## Install
 
-Type this in Claude Code:
+Open your Donna or Wonka folder in Claude Code and paste this into the chat:
 
 ```
-/plugin install employee-faces --marketplace JayGPTPro/employee-faces
+Install this plugin: claude plugin marketplace add JayGPTPro/employee-faces, then claude plugin install employee-faces@employee-faces
 ```
 
-Then type `/reload-plugins`, or open a new session. That's it.
+Claude runs the two commands for you (it may ask you to approve once). Then open a new session. That's it.
+
+Prefer the terminal? Run the same two commands yourself:
+
+```
+claude plugin marketplace add JayGPTPro/employee-faces
+claude plugin install employee-faces@employee-faces
+```
 
 ## How it knows whose folder you're in
 
